@@ -1,0 +1,5 @@
+SW/SoftwareEngineering
+IT/InformationTechnology
+CS/ComputerScience
+EE/ElectricalEngineering
+ME/MechanicalEngineering
