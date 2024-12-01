@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biyDaalt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/biyDaalt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
