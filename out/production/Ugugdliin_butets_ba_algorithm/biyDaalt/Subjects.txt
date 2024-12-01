@@ -1,5 +1,0 @@
-CS203/DataStructures/3.0
-CS101/IntroductionToProgramming/4.0
-MA101/Calculus/3.5
-CS204/DataStructuresAlgorithm/4.0
-CS205/WebDesign/2.5
